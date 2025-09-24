@@ -15,5 +15,4 @@ Ce projet a été réalisé dans le cadre d'un cours avancé en bases de donnée
 - **insertion_donnee.py :** Ce script Python se connecte à la base de données PostgreSQL et y insère les données des annonces.
 - **create_table.sql :** Ce script SQL crée les tables de la base de données pour stocker les données des annonces.
 - **test.sql :** Ce notebook Jupyter contient une series d'opérations pour tester les permissions de certains rôles
-## Licence
- Ces données sont fournies par Inside Airbnb et sont disponibles sous la licence CC 0 1.0.
+
